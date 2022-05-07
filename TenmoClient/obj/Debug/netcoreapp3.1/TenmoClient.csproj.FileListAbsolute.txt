@@ -1,0 +1,16 @@
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\bin\Debug\netcoreapp3.1\TenmoClient.exe
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\bin\Debug\netcoreapp3.1\TenmoClient.deps.json
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\bin\Debug\netcoreapp3.1\TenmoClient.runtimeconfig.json
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\bin\Debug\netcoreapp3.1\TenmoClient.runtimeconfig.dev.json
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\bin\Debug\netcoreapp3.1\TenmoClient.dll
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\bin\Debug\netcoreapp3.1\TenmoClient.pdb
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.csproj.AssemblyReference.cache
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.AssemblyInfoInputs.cache
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.AssemblyInfo.cs
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.csproj.CoreCompileInputs.cache
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.csproj.CopyComplete
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.dll
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.pdb
+C:\Users\Sam\TechElevator\pairs\c-sharp-capstone-module-2-team-8\18_Capstone\capstone\TenmoClient\obj\Debug\netcoreapp3.1\TenmoClient.genruntimeconfig.cache
